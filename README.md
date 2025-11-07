@@ -64,6 +64,7 @@
 |----------|--------------|-------------|
 | 🎓 [Magistral Enrollment System](https://github.com/ZairRaaa/matriculas-magistral) | Web system for managing student enrollments for the “Magistral” study group. Allows administrative staff to register and manage students, while teachers can view enrollments per cycle. | PHP, JS, MySQL, Bootstrap |
 | 🛰️ Qhichwa-Band | Intelligent **wearable translator bracelet** that translates Quechua to Spanish in real time using embedded AI models. Promotes linguistic inclusion, education, and cultural preservation. Developed with a team for the **UNCP Innovation Contest 2025**. | Embedded Systems, Python, NLP, AI, Hardware Design |
+| 🏙️ Smart Waste Management System – Municipality of Chilca | Web and mobile system for real-time GPS tracking of solid waste collection vehicles, developed for the Municipality of Chilca (Peru). Designed to improve the efficiency, transparency, and sustainability of public waste management services. The platform enables municipal administrators to monitor routes, optimize schedules, and visualize collection coverage, while citizens can track trucks and report incidents directly from the mobile app. | Dart, firebase, flutter, kotlin, GPS APIs, and Google Maps SDK. |
 
 ---
 
@@ -91,7 +92,7 @@
 
 <p align="center">
   <a href="mailto:a3278811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/zair-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/zair-ken-rojas-cerron-24a28635b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
