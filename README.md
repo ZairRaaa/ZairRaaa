@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">👋 Welcome to my GitHub Profile!</h1>
+<h1 align="center">👋 Welcome, I´m ZairRaaa!</h1>
 <h3 align="center">Systems Engineering Student | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
