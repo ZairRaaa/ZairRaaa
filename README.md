@@ -22,7 +22,7 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,composer,nodejs,express,mysql,python,java,react,vscode,git,github,figma,linux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,flutter,nodejs,express,mysql,python,java,react,vscode,git,github,figma,linux,tailwind" />
 </p>
 
 ---
@@ -32,10 +32,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZairRaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZairRaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZairRaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,6 +65,7 @@
 - 🌍 **Web Systems for Public and Environmental Services**
 - 🔐 **Web Security and User Authentication**
 - 🎨 **UI/UX Design Basics with Figma**
+- 🛜 **Cisco and NetAcad**
 
 ---
 
@@ -76,8 +73,7 @@
 
 <p align="center">
   <a href="mailto:a3278811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/zair-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/zair-ken-rojas-cerron-24a28635b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -88,7 +84,6 @@
 
 ---
 
-### 🕹️ Fun Zone
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
