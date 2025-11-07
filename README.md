@@ -1,68 +1,98 @@
-<!-- Banner o saludo -->
-<h1 align="center">👋 ¡Hola! Soy <a href="https://github.com/ZairRaaa">Zair Rojas</a></h1>
-<h3 align="center">💻 Desarrollador en formación | Ingeniero de Sistemas - UNCP</h3>
-
----
-
-### 🌱 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Sistemas** en la **UNCP**.  
-- 💼 Actualmente desarrollo el proyecto **Sistema de Matrículas "Magistral"** (PHP + JS + MySQL).  
-- 🛰️ También participo en el proyecto **de rastreo GPS para la Municipalidad de Chilca** para la optimización de rutas de residuos sólidos.  
-- 💡 Apasionado por la **tecnología aplicada a la mejora de servicios públicos y la educación**.  
-- 📘 Me gusta aprender sobre **desarrollo web, bases de datos, IoT y gestión de proyectos con Scrum**.  
-- 🎯 Mi meta es crecer como **desarrollador full stack** y contribuir a proyectos de impacto social.  
-
----
-
-### 🧰 Tecnologías que uso
+<!-- Profile Banner -->
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/ZairRaaa">Zair Rojas</a></h1>
+<h3 align="center">💻 Systems Engineering Student | Web Developer | Technology Enthusiast</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,bootstrap,nodejs,mysql,git,github,vscode,figma,composer,laravel" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZrdnY3a3l6YzUzb3h6NXI3bnRzcW5mNGpocnBhbWc5aXh4b25jMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1.Y2lkPTc5MGI3NjExOGQ2dGhyM2RibnB5bjNwMm95a3ltczliZzdzOGpkam9jMGc3OHluOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kfR5Qh4v0XvbA/giphy.gif" width="400"/>
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🌱 About Me
+
+- 🎓 I’m currently studying **Systems Engineering** at the **National University of Central Peru (UNCP)**.  
+- 💼 Working on projects like the **Magistral Enrollment System** and a **GPS Tracking App** for the **Municipality of Chilca**.  
+- 💡 Passionate about creating web systems that **solve real-world problems** and **enhance public service efficiency**.  
+- 🧩 Interested in **web development**, **IoT**, **data systems**, and **project management with Scrum**.  
+- 🚀 I love learning and experimenting with new technologies.  
+- 🎯 My goal: Become a **Full Stack Developer** and contribute to impactful software projects.  
+
+---
+
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZairRaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZairRaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,laravel,composer,nodejs,express,mysql,python,java,react,vscode,git,github,figma,linux,tailwind" />
 </p>
 
 ---
 
-### 🧩 Proyectos destacados
+### 📊 GitHub Stats & Activity
 
-#### 🎓 Sistema de Matrículas - Magistral
-> Sistema web para la gestión de matrículas del grupo de estudio Magistral, desarrollado en PHP, JS y MySQL.
-🔗 [Repositorio](https://github.com/ZairRaaa/matriculas-magistral)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZairRaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZairRaaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
 
-#### ♻️ Rastreo GPS de Vehículos de Residuos - Chilca
-> Proyecto en desarrollo con la Municipalidad de Chilca para monitorear vehículos recolectores en tiempo real.
-🛰️ [Más detalles](#)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZairRaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Contáctame
+### 🧩 Featured Projects
+
+#### 🎓 Magistral Enrollment System
+> Web platform for managing student enrollments for the Magistral Study Group.  
+> Built with **PHP, JS, MySQL, and Bootstrap**.
+🔗 [View Repository](https://github.com/ZairRaaa/matriculas-magistral)
+
+#### ♻️ GPS Tracking for Solid Waste Collection
+> Web and mobile project for **real-time GPS tracking** of waste collection vehicles, in collaboration with the **Municipality of Chilca**.  
+> Aims to improve route efficiency, transparency, and public satisfaction.  
+🔗 *In progress – more updates coming soon!*
+
+---
+
+### 🧰 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,docker,aws" />
+</p>
+
+---
+
+### 🧾 Certifications & Interests
+
+- 🧠 **Agile Project Management (Scrum Framework)**
+- 🧰 **Database Design and Optimization**
+- 🌍 **Web Systems for Public and Environmental Services**
+- 🔐 **Web Security and User Authentication**
+- 🎨 **UI/UX Design Basics with Figma**
+
+---
+
+### 🤝 Connect With Me
+
 <p align="center">
   <a href="mailto:a3278811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/zair-rojas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ZairRaaa"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧠 Frase que me inspira
-> “La tecnología es más poderosa cuando empodera a las personas.”  
-> — Satya Nadella
+### 🧠 Quote That Inspires Me
+> “Technology is best when it brings people together.”  
+> — Matt Mullenweg
 
 ---
 
-### 🐾 Un toque de humor
+### 🕹️ Fun Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </p>
 
 ---
+
 ⭐️ *From [ZairRaaa](https://github.com/ZairRaaa)*
